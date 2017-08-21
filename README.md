@@ -1,5 +1,7 @@
 # contact-app
 
-to run 
+to run :
+
 npm install
+ &&
 npm run dev

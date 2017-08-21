@@ -1,0 +1,28 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.1.2",
+    "express": "^4.15.4",
+    "formsy-material-ui": "^0.6.2",
+    "formsy-react": "^0.19.5",
+    "material-ui": "next",
+    "material-ui-icons": "^1.0.0-alpha.19",
+    "next": "^3.0.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-jss": "^7.0.2",
+    "react-select": "^1.0.0-rc.5"
+  }
+}
